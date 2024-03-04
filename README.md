@@ -9,6 +9,6 @@ conda activate main-ds
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run dash.py
 ```
 
